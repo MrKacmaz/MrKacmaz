@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrKacmaz
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C#, Python, Android
-- ▲ I develop project and improving myself on Java,HTML,CSS,PHP,Bootstrap, Matlab, SQL
+- ▲ I develop the project and improving myself in Java, HTML, CSS, PHP, Bootstrap, Matlab, SQL
 - 📫 How to reach me: alperen703.akm@gmail.com / https://www.linkedin.com/in/alperen-ka%C3%A7maz-2202/
 
 <!---
