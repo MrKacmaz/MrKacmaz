@@ -1,4 +1,4 @@
--<h1 align = "center"> 👋 Hi, I’m @MrKacmaz<h/1>
+-<h1 align = "center"> 👋 Hi, I’m @MrKacmaz</h1>
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C#, Python, Android
 - ▲ I develop the project and improving myself in Java, HTML, CSS, PHP, Bootstrap, Matlab, SQL
