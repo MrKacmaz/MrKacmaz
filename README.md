@@ -1,8 +1,8 @@
-<h1 align = "center"> 👋 Hi, I’m @MrKacmaz</h1>
-<h3>👀 I’m interested in Game Development</h3>
-<h3>🌱 I’m currently learning C#, AI, Android</h3>
-<h3>▲ I develop the project and improving myself in Java, Python, HTML, PHP, Bootstrap, Matlab</h3>
-<h3>📫 How to reach me:</h3>
+<h2 align = "center"> 👋 Hi, I’m @MrKacmaz</h2>
+<h4>👀 I’m interested in Game Development</h4>
+<h4>🌱 I’m currently learning C#, AI, Android</h4>
+<h4>▲ I develop the project and improving myself in Java, Python, HTML, PHP, Bootstrap, Matlab</h4>
+<h4>📫 How to reach me:</h4>
 
 
 <ul>
