@@ -7,7 +7,7 @@
 
 <ul>
   <li>
-    <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/51-linkedin-512.png" width="45" height="30">
+    <img src="https://image.flaticon.com/icons/png/512/61/61109.png" width="45" height="30">
     
   </li>
   <li>
