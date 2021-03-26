@@ -7,7 +7,9 @@
 
 <ul>
   <li>
-    <img src="https://image.flaticon.com/icons/png/512/61/61109.png" width="45" height="30">
+    <a href ="https://www.linkedin.com/in/alperen-ka%C3%A7maz-2202/">
+      <img src="https://image.flaticon.com/icons/png/512/61/61109.png" width="30" height="30">
+    </a>
     
   </li>
   <li>
