@@ -13,7 +13,10 @@
     
   </li>
   <li>
-    alperen703.akm@gmail.com 
+    <a href="mailto:alperen703.akm@gmail.com">
+      <img src = "https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" width="30" height="30">
+    </a>
+     
   </li>
 </ul>
 
