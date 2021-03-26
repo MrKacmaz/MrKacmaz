@@ -7,7 +7,7 @@
 
 <ul>
   <li>
-    <a href="https://www.linkedin.com/in/alperen-ka%C3%A7maz-2202/"></a>
+    <a href="https://www.linkedin.com/in/alperen-ka%C3%A7maz-2202/">LinkedIn</a>
   </li>
   <li>
     alperen703.akm@gmail.com 
