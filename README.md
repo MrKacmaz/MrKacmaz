@@ -7,7 +7,7 @@
 
 <ul>
   <li>
-    <img>https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</img>
+    <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/51-linkedin-512.png" width="45" height="30">
     
   </li>
   <li>
