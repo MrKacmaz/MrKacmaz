@@ -1,9 +1,8 @@
 <h2 align = "center"> 👋 Hi, I’m @MrKacmaz</h2>
-<h4>👀 I’m interested in Game Development</h4>
-<h4>🌱 I’m currently learning C#, AI, Android</h4>
-<h4>▲ I'm currently develop my project and improving myself in Java, Python, JS, PHP, Bootstrap</h4>
+<h4>👀 I am a junior at Akdeniz University Computer Science and Engineering Department. I am interested in Game Development</h4>
+<h4>🌱 I’m currently learning C#, AI, JS</h4>
+<h4>▲ I'm currently develop my project and improving myself in Java, Python, C#, JS, PHP, Android</h4>
 <h4>📫 How to reach me:</h4>
-
 
 <ul>
   <li>
