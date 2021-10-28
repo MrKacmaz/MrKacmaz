@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bio</title>
     <style>
         * {
             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -36,9 +28,7 @@
             margin-top: -8px;
         }
     </style>
-</head>
 
-<body>
     <h3 style="text-align-last: center;"> Hi, I’m Alperen KAÇMAZ __ @MrKacmaz </h3>
 
     <ul>
@@ -110,6 +100,3 @@ MrKacmaz/MrKacmaz is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-</body>
-
-</html>
