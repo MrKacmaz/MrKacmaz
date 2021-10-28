@@ -19,14 +19,15 @@ I work as a web developer at [Proxolab](https://www.proxolab.com). I'm based in 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![Pycharm](https://img.shields.io/badge/-PYCHARM-000000?style=for-the-badge&logo=PYCHARM)
 ![Docker](https://img.shields.io/badge/-DOCKER-000000?style=for-the-badge&logo=DOCKER)
+</br>
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKacmaz&theme=gruvbox&title_color=BCBCBC&text_color=fff)
 </br></br>
 
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/MrKacmaz/MrKacmaz.svg?cache=remove)](#)
-</br></br></br>
+</br>
 ![MrKacmaz's github stats](https://github-readme-stats.vercel.app/api?username=MrKacmaz&show_icons=true&theme=gruvbox)
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKacmaz&theme=gruvbox&title_color=BCBCBC&text_color=fff)
-
+</br></br>
 ### 🌎Find me elsewhere
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/alperen-kacmaz-2202/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alperen703.akm@gmail.com)](mailto:alperen703.akm@gmail.com)
