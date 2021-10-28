@@ -1,4 +1,4 @@
-    <h3 align="center"> Hi, I’m Alperen KAÇMAZ || @MrKacmaz </h3>
+    ##<h3 align="center"> Hi, I’m Alperen KAÇMAZ || @MrKacmaz </h3>
     <h4>👋 I am a junior at Akdeniz University Computer Science and Engineering Department. I am interested in Game
         Development</h4>
     <h4>🌱 I’m currently learning C#, AI, JS</h4>
