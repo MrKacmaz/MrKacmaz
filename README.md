@@ -13,6 +13,6 @@ Currently develop my project and improving myself in Laravel, Python, JS, Flutte
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/alperen-kacmaz-2202/)
 
-![MrKacmaz's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=merko)
+![MrKacmaz's github stats](https://github-readme-stats.vercel.app/api?username=MrKacmaz&show_icons=true&theme=cobalt)
 
 
