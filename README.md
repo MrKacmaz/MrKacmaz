@@ -1,34 +1,3 @@
-    <style>
-        * {
-            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        }
-
-        h4 {
-            letter-spacing: 4px;
-            background: -webkit-linear-gradient(rgb(95, 95, 95), rgba(21, 255, 0, 0.453));
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            margin-bottom: 10px;
-        }
-
-        h3 {
-            letter-spacing: 2px;
-            background: -webkit-linear-gradient(rgba(21, 255, 0, 0.453), rgb(95, 95, 95));
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-
-        }
-
-        ul {
-            text-decoration: none;
-            list-style-type: none;
-        }
-
-        p {
-            margin-top: -8px;
-        }
-    </style>
-
     <h3 style="text-align-last: center;"> Hi, I’m Alperen KAÇMAZ __ @MrKacmaz </h3>
 
     <ul>
