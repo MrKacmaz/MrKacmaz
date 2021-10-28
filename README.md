@@ -22,6 +22,7 @@ I work as a web developer at [Proxolab](https://www.proxolab.com). I'm based in 
 
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/MrKacmaz/MrKacmaz.svg?cache=remove)](#)
+</br> </br> </br>
 ![MrKacmaz's github stats](https://github-readme-stats.vercel.app/api?username=MrKacmaz&show_icons=true&theme=gruvbox)
 
 
