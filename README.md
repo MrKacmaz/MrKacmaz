@@ -15,3 +15,6 @@ Currently develop my project and improving myself in Laravel, Python, JS, Flutte
 
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=MrKacmaz)](https://github.com/MrKacmaz/github-readme-stats)
 
+![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
+
+
