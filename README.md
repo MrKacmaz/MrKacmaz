@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ### I'm Alperen Kaçmaz || @MrKacmaz
-I work as a web developer at [Proxolab](https://www.proxolab.com). I'm based in Denizli, Turkey.
+I work as a web developer. I'm based in Istanbul, Turkey.
 </br></br>
 
 ### 👀What I'm developing these days </br>
@@ -19,7 +19,7 @@ I work as a web developer at [Proxolab](https://www.proxolab.com). I'm based in 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![Pycharm](https://img.shields.io/badge/-PYCHARM-000000?style=for-the-badge&logo=PYCHARM)
 ![Docker](https://img.shields.io/badge/-DOCKER-000000?style=for-the-badge&logo=DOCKER)
-</br>
+</br></br>
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKacmaz&theme=gruvbox&title_color=BCBCBC&text_color=fff)
 </br></br>
 
