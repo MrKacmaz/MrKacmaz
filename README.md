@@ -26,6 +26,8 @@ I work as a web developer. I'm based in Istanbul, Turkey.
 [![ViewCount](https://views.whatilearened.today/views/github/MrKacmaz/MrKacmaz.svg?cache=remove)](#)
 </br>
 ![MrKacmaz's github stats](https://github-readme-stats.vercel.app/api?username=MrKacmaz&show_icons=true&theme=gruvbox)
+</br>
+![MrKacmaz's github readme streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrkacmaz&theme=highcontrast)
 </br></br>
 ### 🌎Find me elsewhere
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/alperen-kacmaz-2202/)
