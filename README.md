@@ -1,23 +1,22 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
-### I'm Alperen Kaçmaz || @MrKacmaz
-I work as a web developer. I'm based in Istanbul, Turkey.
-</br></br>
+### <p align="center">( ﾉ ﾟｰﾟ)ﾉ Alperen Kaçmaz || @MrKacmaz ＼(ﾟｰﾟ＼)</p>
 
-### 👀What I'm developing these days </br>
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
-![Laravel](https://img.shields.io/badge/-LARAVEL-000000?style=for-the-badge&logo=LARAVEL)
-![Python](https://img.shields.io/badge/-PHYTON-000000?style=for-the-badge&logo=PYTHON)
-</br></br>
+### <p align="center">Full Stack Web Developer</p>
+  
+</br>
 
-### ⚙️Some of the technologies I have worked with</br>
-![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-![Pycharm](https://img.shields.io/badge/-PYCHARM-000000?style=for-the-badge&logo=PYCHARM)
-![Docker](https://img.shields.io/badge/-DOCKER-000000?style=for-the-badge&logo=DOCKER)
+| 👀What I'm developing these days                                                                  |                                ⚙️Some of the techs I have worked with                              |
+|:-------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
+| ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP&logoColor=007396)     |           ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)                       |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)   |  ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)  |
+| ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)                     |       ![Docker](https://img.shields.io/badge/-DOCKER-000000?style=for-the-badge&logo=DOCKER) |
+| ![Mongo](https://img.shields.io/badge/-mongo-000000?style=for-the-badge&logo=mongodb&logoColor=007396)   |  ![Apache](https://img.shields.io/badge/-Apache-000000?style=for-the-badge&logo=Apache)  |
+| ![Laravel](https://img.shields.io/badge/-LARAVEL-000000?style=for-the-badge&logo=LARAVEL)  | ¯\(°_o)/¯ |
+| ![Python](https://img.shields.io/badge/-PHYTON-000000?style=for-the-badge&logo=PYTHON) | ¯\(°_o)/¯ |
+
+
+
 </br></br>
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKacmaz&theme=gruvbox&title_color=BCBCBC&text_color=fff)
 </br></br>
