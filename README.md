@@ -1,33 +1,25 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
-### <p align="center">( ﾉ ﾟｰﾟ)ﾉ Alperen Kaçmaz || @MrKacmaz ＼(ﾟｰﾟ＼)</p>
+# Hi there, I'm Alperen || @MrKacmaz
 
-### <p align="center">Full Stack Web Developer</p>
-  
-</br>
+## ⚡ Me
 
-| 👀What I'm developing these days                                                                  |                                ⚙️Some of the techs I have worked with                              |
-|:-------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
-| ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP&logoColor=007396)     |           ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)                       |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)   |  ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)  |
-| ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)                     |       ![Docker](https://img.shields.io/badge/-DOCKER-000000?style=for-the-badge&logo=DOCKER) |
-| ![Mongo](https://img.shields.io/badge/-mongo-000000?style=for-the-badge&logo=mongodb&logoColor=007396)   |  ![Apache](https://img.shields.io/badge/-Apache-000000?style=for-the-badge&logo=Apache)  |
-| ![Laravel](https://img.shields.io/badge/-LARAVEL-000000?style=for-the-badge&logo=LARAVEL)  | ¯\(°_o)/¯ |
-| ![Python](https://img.shields.io/badge/-PHYTON-000000?style=for-the-badge&logo=PYTHON) | ¯\(°_o)/¯ |
+I have a bachelor's degree from [AU-CSE](https://cse.akdeniz.edu.tr). I am interested in Web Development and ML Processing. Usually develop my projects in PHP and Python languages. 
+
+  - 🔭 I’m currently working on Bluemedia.
+  - 🌱 I’m currently learning Node&Next JS.
+  - 💬 Ask me about Web Development and Laravel Framework
+  - 📫 How to reach me: [Mail](mailto:alperen703.akm@gmail.com), [Linked-In](https://www.linkedin.com/in/alperen-kacmaz-2202/)
 
 
 
-</br></br>
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKacmaz&theme=gruvbox&title_color=BCBCBC&text_color=fff)
-</br></br>
+## ⚡ Skills
+| Backend | Database | Frontend | Extra |
+|:-----:|:-----:|:-----:|:-----:|
+| [![My Skills](https://skillicons.dev/icons?i=laravel,php,express,java,python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,firebase,postgres,rabbitmq)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=vite,webpack,nextjs,tailwind,bootstrap,jquery)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=androidstudio,nginx,arduino,matlab,postman)](https://skillicons.dev) |
 
-### ✨Visitors
-[![ViewCount](https://views.whatilearened.today/views/github/MrKacmaz/MrKacmaz.svg?cache=remove)](#)
-</br>
-![MrKacmaz's github stats](https://github-readme-stats.vercel.app/api?username=MrKacmaz&show_icons=true&theme=gruvbox)
-</br>
-![MrKacmaz's github readme streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrkacmaz&theme=highcontrast)
-</br></br>
-### 🌎Find me elsewhere
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/alperen-kacmaz-2202/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alperen703.akm@gmail.com)](mailto:alperen703.akm@gmail.com)
+## ⚡ Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKacmaz&show_icons=true&theme=radical)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrkacmaz&theme=highcontrast)
+
+| Top Language | GitHub Metrics |
+|:-----:|:-----:|
+| ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKacmaz&theme=radical&title_color=BCBCBC&text_color=fff) | ![GitHub metrics](https://metrics.lecoq.io/MrKacmaz) |
