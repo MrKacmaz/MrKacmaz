@@ -18,7 +18,9 @@ I have a bachelor's degree from [AU-CSE](https://cse.akdeniz.edu.tr). I am inter
 | [![My Skills](https://skillicons.dev/icons?i=laravel,php,express,java,python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,firebase,postgres,rabbitmq)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=vite,webpack,nextjs,tailwind,bootstrap,jquery)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=androidstudio,nginx,arduino,matlab,postman)](https://skillicons.dev) |
 
 ## ⚡ Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKacmaz&show_icons=true&theme=radical)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrkacmaz&theme=highcontrast)
+| GitHub Stats | GitHub Streak Stats |
+|:-----:|:-----:|
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKacmaz&show_icons=true&theme=radical) | ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrkacmaz&theme=highcontrast) |
 
 | Top Language | GitHub Metrics |
 |:-----:|:-----:|
