@@ -5,8 +5,8 @@
 
 I have a bachelor's degree from [AU-CSE](https://cse.akdeniz.edu.tr). I am interested in Web Development and ML Processing. Usually develop my projects in PHP and Python languages. 
 
-  - 🔭 I’m currently working on Bluemedia.
-  - 🌱 I’m currently learning Node&Next JS.
+  - 🔭 I’m currently working on Tarfin.
+  - 🌱 I’m currently learning Node & Express JS.
   - 💬 Ask me about Web Development and Laravel Framework
   - 📫 How to reach me: [Mail](mailto:alperen703.akm@gmail.com), [Linked-In](https://www.linkedin.com/in/alperen-kacmaz-2202/)
 
