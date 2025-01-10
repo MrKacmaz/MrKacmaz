@@ -22,6 +22,6 @@ I have a bachelor's degree from [AU-CSE](https://cse.akdeniz.edu.tr). I am inter
 |:-----:|:-----:|
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKacmaz&show_icons=true&theme=radical) | ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrkacmaz&theme=highcontrast) |
 
-| Top Language | GitHub Metrics |
+| Top Language | Roadmap |
 |:-----:|:-----:|
-| ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKacmaz&theme=radical&title_color=BCBCBC&text_color=fff) | ![GitHub metrics](https://metrics.lecoq.io/MrKacmaz) |
+| ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKacmaz&theme=radical&title_color=BCBCBC&text_color=fff) | [![roadmap.sh](https://roadmap.sh/card/tall/6780bcea70129741a8b9b634?variant=dark)](https://roadmap.sh) |
